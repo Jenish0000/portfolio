@@ -682,11 +682,11 @@ const handleTouchEnd = (e) => {
                 <p className='aboutMeDisc'>
                   I was born and raised in Biratnagar, Nepal. 
                   Ever since I was a child, i have had passion for computers and it's systems, 
-                  the always wanting to develop something and full of creativeness 
+                  From drawing anime characters to designing creative UI's that clicks in brain and developing to feel the dream seen while designing with creativeness 
                   was always full in me,
-                  that's why i picked a stack and chose to master it, 
-                  I am really fond of MERN stack and developing 
-                  new pprojects along with deploying them to make them stand out.
+                  that's why i picked a wished to design and then develop-> and then ship so rather than watching tutorials i decided to master designing and developing UI's, 
+                  I am really fond of MERN stack and desining 
+                  new projects along with deploying them to make them stand out.
                 </p>
               </div>
               <div className="currentTimeSubhead">
