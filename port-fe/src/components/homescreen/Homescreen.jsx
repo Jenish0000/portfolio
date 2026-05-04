@@ -242,7 +242,7 @@ const handleTouchEnd = (e) => {
 
 <h1 className='introductionText'>Hi, I'm Jenish -</h1>
 <p className='roleText'>
-    MERN stack developer and
+    Junior UI/UX designer based in Dubai. I design in Figma and ship the front-end myself
     <span className='underline'>actively</span> working as a Freelancer</p>
 </div>  
 
